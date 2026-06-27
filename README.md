@@ -4,6 +4,8 @@ but wh
 
 This repository contains my solutions, notes, and hands-on exercises for the Cognizant Digital Nurture 5.0 Deep Skilling Program (Python Full Stack Engineer).
 
+The complete Django project is inside `PythonBackendFrameworks/handson_01/`. The other hands-on folders are used for screenshots, notes, and supporting documentation.
+
 ## Modules
 - Engineering Concepts
 - Database Integration
